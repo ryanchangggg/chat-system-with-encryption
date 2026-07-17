@@ -81,7 +81,7 @@ Once logged in, you can use the following commands via the text input or the sid
 | `indexer.py` | Message indexing and search — used for chat history lookup |
 | `indexer_good.py` | Alternative version of the indexer (not used by the server) |
 | `AllSonnets.txt` | Complete collection of Shakespeare's sonnets |
-| `roman.txt.pk` | Pickled mapping of integers to Roman numerals (used to identify sonnet boundaries) |
+| `roman.txt.pk` | Pickled mapping of integers to Roman numerals (used to identify sonnet boundaries); generated from `roman.txt` |
 
 ## How Encryption Works
 
